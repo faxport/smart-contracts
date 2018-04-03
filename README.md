@@ -16,7 +16,7 @@ Using smart contracts, you can
 - design and issue your own cryptocurrency
 - kickstart a project with a trustless crowdsale
 - create a democratic autonomous organization
-- or build a new kind of decentralized applicatoon
+- or build a new kind of decentralized application
 
 #### Getting started
 
@@ -28,8 +28,8 @@ According to [Available Solidity Integrations](https://solidity.readthedocs.io/e
 This project uses Truffle for its fluent workflow, helpful boilerplates boxes and active community.
 
 In this repository, there are mainly two contracts:
-- ERC20 Token: [source code](contracts/TokenERC20Impl.sol), and Faxport's cryptocurrency FAS is issued by this contract, you can watch this address at [https://etherscan.io/token/0xb47e9b43ee0772abac3856a1adf8f90c0e6c1067](https://etherscan.io/token/0xb47e9b43ee0772abac3856a1adf8f90c0e6c1067).
-- Airdrop: [source code](contracts/Airdrop.sol). Faxport is [in sale stage now](https://faxport.io), FAS will be distributed to users by this Airdrop contract automatically.
+- ERC20 Token: [source code](contracts/TokenERC20Impl.sol), and Faxport's cryptocurrency FAS is issued via this contract, you can watch it at [https://etherscan.io/token/0xb47e9b43ee0772abac3856a1adf8f90c0e6c1067](https://etherscan.io/token/0xb47e9b43ee0772abac3856a1adf8f90c0e6c1067).
+- Airdrop: [source code](contracts/Airdrop.sol). Faxport is [in sale stage now](https://faxport.io), FAS will be automatically distributed to users via this Airdrop contract.
 
 #### Best practices
 
